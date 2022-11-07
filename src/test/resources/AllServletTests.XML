@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="All Servlets Test Suite">
+  <test name="All Servlets Test">
+    <packages>
+      <package name="ru.akirakozov.sd.refactoring.servlet"/>
+    </packages>
+  </test>
+</suite>
